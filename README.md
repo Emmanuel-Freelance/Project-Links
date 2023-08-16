@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Odueso Emmanuel Jesutofunmi
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently a Product Manager
-- 💞️ I’m looking to collaborate on other programmers to biuld software solutions
+- 👋 Hi, I’m Odueso Emmanuel Jesutofunmi
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently a Backend Developer
+- 💞️ I’m looking to collaborate on other programmers to build AI-based software solutions
 - 📫 How to reach me call or whatsapp +234 705 1436 088
 
 <!---
