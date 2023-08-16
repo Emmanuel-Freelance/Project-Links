@@ -1,3 +1,10 @@
+Here is a list of projects i worked in as a fullstack developer
+- https://wellnessrepublic.org
+- https://easygarment.org
+
+Here is a list of projects i worked in as a fullstack developer
+
+
 - 👋 Hi, I’m Odueso Emmanuel Jesutofunmi
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently a Backend Developer
