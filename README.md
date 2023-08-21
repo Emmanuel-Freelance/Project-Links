@@ -1,4 +1,5 @@
 Here is a list of projects i worked in as a fullstack developer
+- https://elance-seaguard.vercel.app/
 - https://wellnessrepublic.org
 - https://easygarment.org
 - https://emmexsoftwares.pythonanywhere.com
